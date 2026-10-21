@@ -75,6 +75,7 @@ Jump
 Confirm in Input Map
 
 Screenshots
+
 screenshots/gameoverscreen.png
 screenshots/gameplay.png
 
