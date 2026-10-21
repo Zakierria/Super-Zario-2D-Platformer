@@ -8,7 +8,7 @@ func _ready() -> void:
 	#making sure coins detect collision
 	monitoring = true
 	monitorable = true
-	body_entered.connect(_on_body_entered)
+	#body_entered.connect(_on_body_entered)
 
 
 func _on_body_entered(body: Node2D) -> void:
